@@ -1,3 +1,7 @@
+Link to the problem:
+
+(https://codeforces.com/contest/2037/problem/A)
+
 Kinich wakes up to the start of a new day. He turns on his phone, checks his mailbox, and finds a mysterious present. He decides to unbox the present.
 
 Kinich unboxes an array 𝑎 with 𝑛 integers. Initially, Kinich's score is 0. He will perform the following operation any number of times:
