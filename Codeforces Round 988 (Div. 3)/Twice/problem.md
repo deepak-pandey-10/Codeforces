@@ -11,9 +11,9 @@ Kinich unboxes an array 𝑎 with 𝑛 integers. Initially, Kinich's score is 0.
 Output the maximum score Kinich can achieve after performing the aforementioned operation any number of times.
 
 Input
-The first line contains an integer 𝑡 (1≤𝑡≤500) —- the number of test cases.
+The first line contains an integer 𝑡 (1≤𝑡≤500) — the number of test cases.
 
-The first line of each test case contains an integer 𝑛 (1≤𝑛≤20) —- the length of 𝑎.
+The first line of each test case contains an integer 𝑛 (1≤𝑛≤20) — the length of 𝑎.
 
 The following line of each test case contains 𝑛 space-separated integers 𝑎1,𝑎2,…,𝑎𝑛 (1≤𝑎𝑖≤𝑛).
 
